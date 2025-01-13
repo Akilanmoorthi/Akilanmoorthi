@@ -34,8 +34,8 @@ This project predicts whether a user will click on an advertisement using advanc
 
 ### 📈 **Performance**
 - **Accuracy**: 96%  
-- **Precision**: [Insert Value]  
-- **Recall**: [Insert Value]  
+- **Precision**: 93.5%
+- **Recall**: 91% 
 
 ---
 
