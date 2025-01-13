@@ -2,7 +2,7 @@ Here’s a sample README slide for your GitHub project:
 
 ---
 
-# **Advertisement Clicking Prediction**
+# **Ad click prediction**
 
 ### 🚀 **Project Overview**
 This project predicts whether a user will click on an advertisement using advanced machine learning techniques. Achieving **96% accuracy**, the model provides businesses with actionable insights to optimize their ad campaigns.
